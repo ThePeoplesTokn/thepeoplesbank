@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.733aeeb3.chunk.css",
+    "main.js": "/static/js/main.35d81d64.chunk.js",
+    "main.js.map": "/static/js/main.35d81d64.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c926669d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c926669d.js.map",
+    "static/css/2.ea7808d2.chunk.css": "/static/css/2.ea7808d2.chunk.css",
+    "static/js/2.9e3d7755.chunk.js": "/static/js/2.9e3d7755.chunk.js",
+    "static/js/2.9e3d7755.chunk.js.map": "/static/js/2.9e3d7755.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ea7808d2.chunk.css.map": "/static/css/2.ea7808d2.chunk.css.map",
+    "static/css/main.733aeeb3.chunk.css.map": "/static/css/main.733aeeb3.chunk.css.map",
+    "static/js/2.9e3d7755.chunk.js.LICENSE.txt": "/static/js/2.9e3d7755.chunk.js.LICENSE.txt",
+    "static/media/bnb-logo.92643887.png": "/static/media/bnb-logo.92643887.png",
+    "static/media/logowhite.4d773d42.png": "/static/media/logowhite.4d773d42.png",
+    "static/media/metamask.02e3ec27.png": "/static/media/metamask.02e3ec27.png",
+    "static/media/tpblogo.00383518.png": "/static/media/tpblogo.00383518.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c926669d.js",
+    "static/css/2.ea7808d2.chunk.css",
+    "static/js/2.9e3d7755.chunk.js",
+    "static/css/main.733aeeb3.chunk.css",
+    "static/js/main.35d81d64.chunk.js"
+  ]
+}
